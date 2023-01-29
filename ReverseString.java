@@ -28,6 +28,8 @@ public class ReverseString {
 		ReverseString rs=new ReverseString();
 		
 		rs.getString();
+		
+		System.out.println("Reverse sucessfully");
 	}
 
 }
